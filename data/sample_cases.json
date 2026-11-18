@@ -1,0 +1,27 @@
+[
+  {
+    "company": "TechNova",
+    "company_url": "https://example.com",
+    "role": "Senior Full Stack Engineer",
+    "location": "San Francisco, CA",
+    "days_available": 5,
+    "job_description": "TechNova is hiring a Senior Full Stack Engineer. Responsibilities include building scalable web applications using React, Next.js, Node.js, and MongoDB. You will design resilient REST and GraphQL APIs, optimize database queries, implement automated testing suites, and collaborate with product managers and UX designers. Must-have requirements: 4+ years of professional experience with JavaScript/TypeScript, React, Node.js, and MongoDB. Experience designing microservices architectures. Behavioural requirement: demonstrated ability to mentor junior engineers and drive technical consensus. Nice-to-have: familiarity with Docker, Kubernetes, and AWS deployment pipelines."
+  },
+  {
+    "company": "DataStream",
+    "company_url": "https://example.com/datastream",
+    "role": "Distributed Systems Engineer",
+    "location": "Remote",
+    "days_available": 3,
+    "job_description": "DataStream builds high-throughput real-time stream processing infrastructure. Required: strong background in Java or Go, Kafka, distributed consensus protocols, and low-latency network programming. Must be adept at incident management, root-cause analysis, and cross-timezone team coordination."
+  },
+  {
+    "company": "FinFlow",
+    "company_url": "https://example.com/finflow",
+    "role": "Frontend Architect",
+    "location": "New York, NY",
+    "days_available": 7,
+    "job_description": "We are seeking a Frontend Architect to modernize our enterprise trading portal. Must have deep expertise in React internals, state management (Zustand/Redux), performance profiling, and WebSockets. Behavioural: exceptional communication with financial traders and quantitative analysts."
+  }
+]
+
